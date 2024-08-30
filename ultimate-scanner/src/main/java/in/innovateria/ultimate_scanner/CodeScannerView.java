@@ -25,7 +25,7 @@ import androidx.annotation.StyleRes;
 
 import java.util.Objects;
 
-import in.innovateria.scanner.R;
+import in.innovateria.ultimate_scanner.R;
 
 public final class CodeScannerView extends ViewGroup {
 
